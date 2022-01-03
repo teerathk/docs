@@ -50,4 +50,5 @@ shortTitle: Clone a GitHub repo
 5. Click **Clone**.
 ![The clone button](/assets/images/help/desktop/clone-button-url-win.png)
 
+
 {% endwindows %}
